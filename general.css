@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-family: Red Hat Display, Arial;
     font-size: 15px;
-    background-image: url("/project3/pattern-background-desktop.svg");
+    background-image: url("./pattern-background-desktop.svg");
     background-repeat: repeat-x;
     background-color: hsl(225, 100%, 94%);
     width: 100%;
