@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/aleksandrovvolodymyr97-oss/pj3)
-- [Live Site URL](https://aleksandrovvolodymyr97-oss.github.io/pj3/)
+- [Solution URL](https://github.com/happilfan/Order-summary-card)
+- [Live Site URL](https://github.com/happilfan/Order-summary-card)
 
 ## My process
 
@@ -95,5 +95,5 @@ In future projects I wants to learn JavaScript and show how to use this.
 
 ## Author
 
-- Website - [Volodymyr Aleksandrov](https://github.com/aleksandrovvolodymyr97-oss)
+- Website - [Volodymyr Aleksandrov](https://github.com/happilfan)
 - Frontend Mentor - [@aleksandrovvolodymyr97-oss](https://www.frontendmentor.io/profile/aleksandrovvolodymyr97-oss)
